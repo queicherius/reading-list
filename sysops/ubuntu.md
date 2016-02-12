@@ -97,3 +97,8 @@ sudo /usr/bin/mysql_secure_installation # "yes" to all questions
 curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
+
+## Ruby (compass)
+```
+http://brian.staruk.me/linux/2014/install-ruby-compass-on-ubuntu-14-04/
+```
