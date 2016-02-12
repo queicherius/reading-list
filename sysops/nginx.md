@@ -8,7 +8,11 @@ apt-get update && apt-get upgrade
 # Generate a keyfile for logging in instead of using passwords
 
 # Install nginx and php fpm
-apt-get install nginx php5-fpm php5-cli php5-mcrypt git php5-mysql
+apt-get install nginx php5-fpm php5-cli php5-mcrypt git php5-mysql htop
+
+# Install node.js
+curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash -
+sudo apt-get install -y nodejs
 
 # Update php config
 nano /etc/php5/fpm/php.ini
