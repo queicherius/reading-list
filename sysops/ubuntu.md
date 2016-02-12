@@ -90,6 +90,11 @@ sudo /usr/bin/mysql_secure_installation # "yes" to all questions
 
 ## Redis
 
+```bash
+sudo apt-get install redis-server
+sudo nano /etc/redis/redis.conf # set "requirepass"
+```
+
 ## Node.js
 
 ```bash
