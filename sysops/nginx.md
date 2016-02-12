@@ -17,6 +17,11 @@ nano /etc/php5/fpm/php.ini
 sudo php5enmod mcrypt
 sudo service php5-fpm restart
 
+# Install composer
+wget https://getcomposer.org/composer.phar
+mv composer.phar /usr/local/bin/composer
+chmod +x /usr/local/bin/composer
+
 # Generate the directory for the sourcecode
 mkdir -p /var/www/html
 
