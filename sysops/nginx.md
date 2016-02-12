@@ -10,7 +10,7 @@ apt-get update && apt-get upgrade
 # Install nginx and php fpm
 apt-get install nginx php5-fpm php5-cli php5-mcrypt git php5-mysql
 
-# Update php config (set "fix_pathinfo=0")
+# Update php config
 nano /etc/php5/fpm/php.ini
 
 # Enable mcyrypt for php
@@ -34,6 +34,26 @@ sudo service nginx restart
 # Change into directory and clone code
 cd /var/www/html
 git clone http://github.com/...
+```
+
+## `php.ini`
+
+```
+; Change value
+fix_pathinfo=0
+
+; If stuff is not working:
+; Add below "dymanic extensions"
+; Try and kill the php-fpm by process ids.
+extension=curl.so
+extension=json.so
+extension=mcrypt.so
+extension=mysqli.so
+extension=mysql.so
+extension=opcache.so
+extension=pdo_mysql.so
+extension=pdo.so
+extension=readline.so
 ```
 
 ## `/etc/nginx/sites-enabled/default`
