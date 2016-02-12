@@ -1,3 +1,3 @@
 # Tests
 
-> Some experiments, tests and a safe playground (eventually).
+> Some experiments, tests, helpful documents and a safe playground (eventually).
