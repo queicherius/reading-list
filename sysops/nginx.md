@@ -42,18 +42,7 @@ git clone http://github.com/...
 ; Change value
 fix_pathinfo=0
 
-; If stuff is not working:
-; Add below "dymanic extensions"
-; Try and kill the php-fpm by process ids.
-extension=curl.so
-extension=json.so
-extension=mcrypt.so
-extension=mysqli.so
-extension=mysql.so
-extension=opcache.so
-extension=pdo_mysql.so
-extension=pdo.so
-extension=readline.so
+; If stuff is not working try and kill the php-fpm by process ids
 ```
 
 ## `/etc/nginx/sites-enabled/default`
