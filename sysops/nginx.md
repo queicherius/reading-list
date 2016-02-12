@@ -8,7 +8,7 @@ apt-get update && apt-get upgrade
 # Generate a keyfile for logging in instead of using passwords
 
 # Install nginx and php fpm
-apt-get install nginx php5-fpm php5-cli php5-mcrypt git
+apt-get install nginx php5-fpm php5-cli php5-mcrypt git php5-mysql
 
 # Update php config (set "fix_pathinfo=0")
 nano /etc/php5/fpm/php.ini
@@ -69,3 +69,13 @@ server {
 	ssl_prefer_server_ciphers on;
 }
 ```
+
+## Mysql
+
+```bash
+apt-get install mysql-server
+sudo mysql_install_db
+sudo /usr/bin/mysql_secure_installation # "yes" to all questions
+```
+
+## Redis
