@@ -79,3 +79,10 @@ sudo /usr/bin/mysql_secure_installation # "yes" to all questions
 ```
 
 ## Redis
+
+
+## Restarting
+
+```bash
+sudo service php5-fpm restart && sudo service nginx restart
+```
