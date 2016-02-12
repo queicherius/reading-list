@@ -1,4 +1,6 @@
-# Setup ubuntu server with nginx and PHP
+# Setup ubuntu server
+
+## nginx and PHP
 
 ```bash
 # Update everything!
@@ -7,14 +9,10 @@ apt-get update && apt-get upgrade
 ## TODO ##
 # Generate a keyfile for logging in instead of using passwords
 
-# Install nginx and php fpm
-apt-get install nginx php5-fpm php5-cli php5-mcrypt git php5-mysql htop
+# Install nginx, php fpm, git and htop
+apt-get install nginx php5-fpm php5-cli php5-mcrypt php5-mysql git htop
 
-# Install node.js
-curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash -
-sudo apt-get install -y nodejs
-
-# Update php config
+# Update php config (change fix_pathinfo=0)
 nano /etc/php5/fpm/php.ini
 
 # Enable mcyrypt for php
@@ -40,16 +38,7 @@ cd /var/www/html
 git clone http://github.com/...
 ```
 
-## `php.ini`
-
-```
-; Change value
-fix_pathinfo=0
-
-; If stuff is not working try and kill the php-fpm by process ids
-```
-
-## `/etc/nginx/sites-enabled/default`
+### `/etc/nginx/sites-enabled/default`
 
 ```
 server {
@@ -83,6 +72,14 @@ server {
 }
 ```
 
+### Restarting
+
+```bash
+sudo service php5-fpm restart && sudo service nginx restart
+```
+
+**Note** Sometimes the php5-fpm process doesn't want to restart, in which case you should try and kill the process by process ids.
+
 ## Mysql
 
 ```bash
@@ -93,9 +90,10 @@ sudo /usr/bin/mysql_secure_installation # "yes" to all questions
 
 ## Redis
 
-
-## Restarting
+## Node.js
 
 ```bash
-sudo service php5-fpm restart && sudo service nginx restart
+# Install node.js
+curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash -
+sudo apt-get install -y nodejs
 ```
