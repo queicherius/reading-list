@@ -88,11 +88,21 @@ sudo mysql_install_db
 sudo /usr/bin/mysql_secure_installation # "yes" to all questions
 ```
 
+Create a user:
+
+```sql
+CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost';
+CREATE USER 'username'@'%' IDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON *.* TO 'username'@'%';
+FLUSH PRIVILEGES;
+```
+
 ## Redis
 
 ```bash
 sudo apt-get install redis-server
-sudo nano /etc/redis/redis.conf # set "requirepass"
+sudo nano /etc/redis/redis.conf # set "requirepass <password>" & "bind 0.0.0.0"
 ```
 
 ## Node.js
