@@ -10,7 +10,7 @@ apt-get update && apt-get upgrade
 # Generate a keyfile for logging in instead of using passwords
 
 # Install nginx, php fpm, git and htop
-apt-get install nginx php5-fpm php5-cli php5-mcrypt php5-mysql git htop
+apt-get install nginx php5-fpm php5-cli php5-mcrypt php5-mysqlnd git htop
 
 # Update php config (change fix_pathinfo=0)
 nano /etc/php5/fpm/php.ini
