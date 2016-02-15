@@ -4,4 +4,4 @@
 
 ## Documents
 
-- [Some helpful commands and base config files for setting up an ubuntu server with nginx, php, mysql, redis, node.js and ruby](https://github.com/queicherius/playground/blob/master/sysops/ubuntu.md)
+- [Setting up an ubuntu server with nginx, php, mysql, redis, node.js and ruby](https://github.com/queicherius/playground/blob/master/sysops/ubuntu.md)
