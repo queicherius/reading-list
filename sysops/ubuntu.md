@@ -1,16 +1,20 @@
 # Setup ubuntu server
 
-## nginx and PHP
+## General setup
 
 ```bash
 # Update everything!
 apt-get update && apt-get upgrade
 
-## TODO ##
+# TODO
 # Generate a keyfile for logging in instead of using passwords
+```
 
+## nginx and PHP
+
+```bash
 # Install nginx, php fpm, git and htop
-apt-get install nginx php5-fpm php5-cli php5-mcrypt php5-mysqlnd git htop
+apt-get install nginx php5-fpm php5-cli php5-mcrypt php5-mysqlnd git htop php5-curl
 
 # Update php config (change fix_pathinfo=0)
 nano /etc/php5/fpm/php.ini
