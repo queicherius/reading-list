@@ -22,7 +22,7 @@
 - **[`jsonparse`](https://github.com/creationix/jsonparse)**
   - :-1: Slow (about 30 times slower than JSON)
   - :-1: Even tho its streaming, it blocks the event loop
-- **WebWorkers**
-  - :-1: Need to serialize / unserialize the object for messaging
+- **WebWorkers / Threads**
+  - :-1: For messaging in between threads (which workers essentially are), we need serialize / unserialize the object AGAIN - just increasing our workload
 - **[`json-streams`](https://github.com/Floby/node-json-streams.git)**
   - :-1: Not supported, tests fail
