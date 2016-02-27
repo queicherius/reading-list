@@ -2,7 +2,7 @@
 
 - **Requirement**: 
   - Serialize a big (100mb) javascript object into a string so it can be saved into redis
-  - Blocking while serializing is okay, blocking while deserializing is NOT.
+  - Blocking the event loop while serializing is okay, while deserializing is NOT.
 - **`JSON`**
   - :+1: Native, no module needed
   - :+1: Pretty fast (~1s)
