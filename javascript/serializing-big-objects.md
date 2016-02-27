@@ -25,4 +25,4 @@
 - **WebWorkers / Threads**
   - :-1: For messaging in between threads (which workers essentially are), we need serialize / unserialize the object AGAIN - just increasing our workload
 - **[`json-streams`](https://github.com/Floby/node-json-streams.git)**
-  - :-1: Not supported, tests fail
+  - :-1: Seems to be not supported on Node 5.x, tests fail
