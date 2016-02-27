@@ -22,3 +22,5 @@
 - **[`jsonparse`](https://github.com/creationix/jsonparse)**
   - :-1: Slow (about 30 times slower than JSON)
   - :-1: Even tho its streaming, it blocks the event loop
+- **WebWorkers**
+  - :-1: Need to serialize / unserialize the object for messaging
