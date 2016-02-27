@@ -16,4 +16,6 @@
 - **[`json-parse-stream`](https://www.npmjs.com/package/json-parse-stream)**
   - :-1: EXTREMELY slow
   - :-1: Overhead of building the object again
-  
+- **[`jsonparse`](https://github.com/creationix/jsonparse)**
+  - :-1: Slow (about 30x as slow as JSON)
+  - :-1: Even tho its streaming, it blocks the event loop
