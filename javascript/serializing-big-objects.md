@@ -1,7 +1,7 @@
 # Serializing big objects
 
 - **Requirement**: 
-  - Serialize a big (100mb) javascript object into a string so it can be saved into redis
+  - Serialize a big (100mb) javascript object into a string using node (for saving into redis)
   - Blocking the event loop while serializing is okay, while deserializing is NOT.
 - **`JSON`**
   - :+1: Native, no module needed
@@ -26,3 +26,14 @@
   - :-1: For messaging in between threads (which workers essentially are), we need serialize / unserialize the object AGAIN - just increasing our workload
 - **[`json-streams`](https://github.com/Floby/node-json-streams.git)**
   - :-1: Seems to be not supported on Node 5.x, tests fail
+
+--
+
+```js
+// Some random code to check if the event loop is blocked or not
+// Should print dots continously into the console
+;(function spinForever () {
+  process.stdout.write(".");
+  process.nextTick(spinForever);
+})();
+```
