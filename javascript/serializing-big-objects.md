@@ -24,3 +24,5 @@
   - :-1: Even tho its streaming, it blocks the event loop
 - **WebWorkers**
   - :-1: Need to serialize / unserialize the object for messaging
+- **[`json-streams`](https://github.com/Floby/node-json-streams.git)**
+  - :-1: Not supported, tests fail
