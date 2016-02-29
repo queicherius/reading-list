@@ -17,9 +17,8 @@ ssh user@serverip
 
 ## Don't continue if we can't log in with the key! ##
 
-# Disable password login and obfuscate ssh port
+# Disable password login
 # -> PermitRootLogin without-password
-# -> Port XYZ
 sudo nano /etc/ssh/sshd_config
 reload ssh
 
