@@ -128,25 +128,27 @@ sudo nano /etc/redis/redis.conf # set "requirepass <password>" & "bind 0.0.0.0"
 ## Node.js
 
 ```bash
-# Install node.js
 curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
-## Ruby (compass)
-```
-sudo apt-get update
+## Ruby & Compass
+
+```bash
+# Install all dependencies
 sudo apt-get install git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
 sudo apt-get install libgdbm-dev libncurses5-dev automake libtool bison libffi-dev
-  
+
+# Install rvm
 curl -L https://get.rvm.io | bash -s stable
 source ~/.rvm/scripts/rvm
 echo "source ~/.rvm/scripts/rvm" >> ~/.bashrc
-# RECONNECT
+
+# Install ruby
 rvm install 2.1.2
 rvm use 2.1.2 --default
 ruby -v
+
+# Install compass
 gem install compass
 ```
-
-(from http://brian.staruk.me/linux/2014/install-ruby-compass-on-ubuntu-14-04/)
