@@ -22,8 +22,8 @@ ssh user@serverip
 sudo nano /etc/ssh/sshd_config
 reload ssh
 
-# Install fail2ban
-# TODO
+# Install fail2ban for blocking too many ssh tries in a row
+sudo apt-get install fail2ban
 ```
 
 ## nginx and PHP
