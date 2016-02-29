@@ -15,8 +15,7 @@ ssh-copy-id -i /path/to/file user@serverip
 # [CLIENT] Login without the SSH key (should not promt for user password!)
 ssh user@serverip
 
-## Don't continue if we can't log in with the key! ##
-
+# Don't continue if we can't log in with the key!
 # Disable password login
 # -> PermitRootLogin without-password
 sudo nano /etc/ssh/sshd_config
