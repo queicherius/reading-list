@@ -6,8 +6,25 @@
 # Update everything!
 apt-get update && apt-get upgrade
 
+# [CLIENT] Generate a keyfile or use an existing keyfile (skip this)
+ssh-keygen -t rsa -C "my@email.com"
+
+# [CLIENT] Copy the keyfile onto the server
+ssh-copy-id -i /path/to/file user@serverip
+
+# [CLIENT] Login without the SSH key (should not promt for user password!)
+ssh user@serverip
+
+## Don't continue if we can't log in with the key! ##
+
+# Disable password login and obfuscate ssh port
+# -> PermitRootLogin without-password
+# -> Port XYZ
+sudo nano /etc/ssh/sshd_config
+reload ssh
+
+# Install fail2ban
 # TODO
-# Generate a keyfile for logging in instead of using passwords
 ```
 
 ## nginx and PHP
