@@ -1,6 +1,6 @@
 # Playground
 
-> Collection of random experiments, tests and helpful documents.
+> Collection of random experiments and helpful documents.
 
 ## Documents
 - **JavaScript**
