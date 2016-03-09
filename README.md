@@ -3,6 +3,7 @@
 > Collection of random experiments and helpful documents.
 
 ## Documents
+
 - **JavaScript**
   - [Serializing big objects (100mb+) into a string](https://github.com/queicherius/playground/blob/master/javascript/serializing-big-objects.md)
 - **SysOps**
