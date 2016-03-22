@@ -1,6 +1,6 @@
 # Playground
 
-> Collection of random experiments and helpful documents.
+> Collection of random experiments and helpful documents and links.
 
 ## Documents
 
