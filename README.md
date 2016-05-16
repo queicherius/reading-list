@@ -22,9 +22,12 @@ I like to read **a lot** of things, on the internet and as books. This is a list
 - :memo: [Profiling Node applications](https://blog.ghaiklor.com/profiling-nodejs-applications-1609b77afe4e#.64ywufy0n)
 - :memo: [Tracing de-optimizations in Node](https://blog.ghaiklor.com/tracing-de-optimizations-in-nodejs-2ba16900fc6f#.xz8dtlmak)
 - :memo: [Learning Javascript design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- :memo: [CSS Modules](http://glenmaddern.com/articles/css-modules)
 - :memo: [Performance engineering with React](http://benchling.engineering/performance-engineering-with-react/)
 - :memo: [Internationalization and React](http://blog.getsentry.com/2016/01/07/react-i18n.html)
-- :memo: [CSS Modules](http://glenmaddern.com/articles/css-modules)
+- :clapper: [Original Node.js presentation](https://www.youtube.com/watch?v=ztspvPYybIY)
+- :clapper: [Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
+- :clapper: [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 
 --
 
