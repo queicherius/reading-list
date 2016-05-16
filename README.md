@@ -97,7 +97,7 @@ I like to read **a lot** of things, on the internet and as books. This is a list
 
 - :memo: [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
 - :memo: [What technical details to consider before making a application public](http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
-- :memo: [The Bank Job](https://boris.in/blog/2016/the-bank-job/)
+- :memo: [The Bank Job - Hacking a banking app](https://boris.in/blog/2016/the-bank-job/)
 
 --
 
