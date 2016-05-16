@@ -15,62 +15,111 @@
 
 I like to read **a lot** of things, on the internet and as books. This is a list of links that I am collecting over the years, which i found interesting or helpful enough to bookmark. :memo: are articles, :clapper: are videos (usually talks) and :book: are book recommendations.
 
-- **Javascript**
-  - :memo: [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.67zv7q7wa)
-  - :memo: [Optimization tricks in V8](https://blog.ghaiklor.com/optimizations-tricks-in-v8-d284b6c8b183#.5yey0f4v9)
-  - :memo: [Profiling Node applications](https://blog.ghaiklor.com/profiling-nodejs-applications-1609b77afe4e#.64ywufy0n)
-  - :memo: [Tracing de-optimizations in Node](https://blog.ghaiklor.com/tracing-de-optimizations-in-nodejs-2ba16900fc6f#.xz8dtlmak)
-  - :memo: [Learning Javascript design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-  - :memo: [Performance engineering with React](http://benchling.engineering/performance-engineering-with-react/)
-  - :memo: [Internationalization and React](http://blog.getsentry.com/2016/01/07/react-i18n.html)
-  - :memo: [CSS Modules](http://glenmaddern.com/articles/css-modules)
-- **Codestyle**
-  - :book: [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-  - :book: [The Art of Readable Code (Theory in Practice)](http://www.amazon.com/Art-Readable-Code-Theory-Practice/dp/0596802293)
-  - :clapper: [Your code sucks, let's fix it](http://www.fullybaked.co.uk/articles/your-code-sucks-lets-fix-it)
-  - :book: [Refactoring to Patterns](https://www.amazon.co.uk/Refactoring-Patterns-Addison-Wesley-Signature-Kerievsky/dp/0321213351/ref=sr_1_1?s=books&ie=UTF8&qid=1463412920&sr=1-1&keywords=refactoring+to+patterns)
-  - :book: [Refactoring: Improving the Design of Existing Code](https://www.amazon.co.uk/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/ref=sr_1_1?s=books&ie=UTF8&qid=1463412948&sr=1-1&keywords=refactoring+improving+the+design+of+existing+code)
-- **Version control**
-  - :memo: [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/#introduction)
-  - :memo: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-  - :clapper: [Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
-- **PHP**
-  - :memo: [PHP: The right way](http://www.phptherightway.com/)
-  - :clapper: [Refactoring to Symfony Components](https://www.youtube.com/watch?v=Aq5Hi6PasFg)
-  - :memo: [PHP is the right tool for the job (for all the wrong reasons)](http://blog.samuellevy.com/post/41-php-is-the-right-tool-for-the-job-for-all-the-wrong-reasons.html)
-  - :memo: [Symfony vs. Flat PHP](http://symfony.com/doc/2.0/book/from_flat_php_to_symfony2.html)
-  - :memo: [Create your own framework... on top of Symfony components](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html)
-  - :memo: [Why `mysql_real_escape_string()` isn't enough](http://www.dreamincode.net/forums/blog/1735/entry-3958-why-mysql-real-escape-string-isnt-enough/)
-  - :memo: [Cropping images based on their entropy](https://codegeekz.com/cropping-images-entrop/)
-- **MySQL**
-  - :memo: [Order by `RAND()`](http://jan.kneschke.de/projects/mysql/order-by-rand/)
-- **CSS**
-  - :memo: [Sizing webcomponents](https://medium.com/@simurai/sizing-web-components-8f433689736f#.wq9g94xgc)
-  - :memo: [Breaking down amazons mega dropdown](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
-  - :memo: [MaintainableCSS](http://maintainablecss.com/)
-- **Design**
-  - :memo: [A systematic logo design process](http://www.adhamdannaway.com/blog/branding/a-systematic-approach-to-logo-design)
-  - :memo: [Web application form design](http://www.lukew.com/ff/entry.asp?1502)
-  - :memo: [Workflow to design and develop a portfolio website](https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/)
-  - :memo: [The algorithm for a perfectly balanced photo gallery](https://medium.com/@jtreitz/the-algorithm-for-a-perfectly-balanced-photo-gallery-914c94a5d8af#.q0mhfagdr)
-  - :memo: [Ask for Less and They’ll Buy More - Designing a Checkout](https://blog.kissmetrics.com/1step-checkout-right-way/)
-  - :memo: [Free web fonts and their combinations](http://www.creativebloq.com/typography/free-web-fonts-1131610?page=1)
-- **Algorithms**
-  - :memo: [How Reddit's ranking algorithms work](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9#.ru9aoukau)
-  - :memo: [Long short-term memory recurrent neural network in Python](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
-- **Security**
-  - :memo: [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
-  - :memo: [What technical details to consider before making a application public](http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
-- **Psychology**
-  - :clapper: [About "meta" work (and wasting time)](https://www.youtube.com/watch?v=dIjKJjzRX_E)
-  - :clapper: [The Science Behind Shaping Player Behavior in Online Games](http://gdcvault.com/play/1017940/The-Science-Behind-Shaping-Player)
-  - :book: [The passionate programmer](https://www.amazon.co.uk/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344)
-  - :book: [Time management for developers (German)](http://www.amazon.de/Zeitmanagement-f%C3%BCr-Webentwickler-Thomas-Steglich/dp/3897218828)
-- **Video production**
-  - :clapper: [The 7 keys of storytelling](https://www.youtube.com/watch?v=hVcg9L6FLPA&feature=related)
-- **Unix**
-  - :memo: [`rm -rf` remains](http://lambdaops.com/rm-rf-remains/)
-- **Working with clients**
-  - :clapper: [F*ck You. Pay Me.](https://vimeo.com/22053820)
-  - :memo: [5 Steps to getting user's insights while avoiding a bruised ego](http://blog.smartbear.com/development/a-developer-and-a-user-walk-into-a-bar-5-steps-to-getting-users-insights-while-avoiding-a-bruised-ego/)
-  - :clapper: [Say no to spec](https://www.youtube.com/watch?v=essNmNOrQto)
+**Javascript**
+
+- :memo: [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.67zv7q7wa)
+- :memo: [Optimization tricks in V8](https://blog.ghaiklor.com/optimizations-tricks-in-v8-d284b6c8b183#.5yey0f4v9)
+- :memo: [Profiling Node applications](https://blog.ghaiklor.com/profiling-nodejs-applications-1609b77afe4e#.64ywufy0n)
+- :memo: [Tracing de-optimizations in Node](https://blog.ghaiklor.com/tracing-de-optimizations-in-nodejs-2ba16900fc6f#.xz8dtlmak)
+- :memo: [Learning Javascript design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- :memo: [Performance engineering with React](http://benchling.engineering/performance-engineering-with-react/)
+- :memo: [Internationalization and React](http://blog.getsentry.com/2016/01/07/react-i18n.html)
+- :memo: [CSS Modules](http://glenmaddern.com/articles/css-modules)
+
+--
+
+**Codestyle**
+
+- :book: [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- :book: [The Art of Readable Code (Theory in Practice)](http://www.amazon.com/Art-Readable-Code-Theory-Practice/dp/0596802293)
+- :clapper: [Your code sucks, let's fix it](http://www.fullybaked.co.uk/articles/your-code-sucks-lets-fix-it)
+- :book: [Refactoring to Patterns](https://www.amazon.co.uk/Refactoring-Patterns-Addison-Wesley-Signature-Kerievsky/dp/0321213351/ref=sr_1_1?s=books&ie=UTF8&qid=1463412920&sr=1-1&keywords=refactoring+to+patterns)
+- :book: [Refactoring: Improving the Design of Existing Code](https://www.amazon.co.uk/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/ref=sr_1_1?s=books&ie=UTF8&qid=1463412948&sr=1-1&keywords=refactoring+improving+the+design+of+existing+code)
+
+--
+
+**Version control**
+
+- :memo: [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/#introduction)
+- :memo: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+- :clapper: [Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
+
+--
+
+**PHP**
+
+- :memo: [PHP: The right way](http://www.phptherightway.com/)
+- :clapper: [Refactoring to Symfony Components](https://www.youtube.com/watch?v=Aq5Hi6PasFg)
+- :memo: [PHP is the right tool for the job (for all the wrong reasons)](http://blog.samuellevy.com/post/41-php-is-the-right-tool-for-the-job-for-all-the-wrong-reasons.html)
+- :memo: [Symfony vs. Flat PHP](http://symfony.com/doc/2.0/book/from_flat_php_to_symfony2.html)
+- :memo: [Create your own framework... on top of Symfony components](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html)
+- :memo: [Why `mysql_real_escape_string()` isn't enough](http://www.dreamincode.net/forums/blog/1735/entry-3958-why-mysql-real-escape-string-isnt-enough/)
+- :memo: [Cropping images based on their entropy](https://codegeekz.com/cropping-images-entrop/)
+
+--
+
+**MySQL**
+
+- :memo: [Order by `RAND()`](http://jan.kneschke.de/projects/mysql/order-by-rand/)
+
+--
+
+**CSS**
+
+- :memo: [Sizing webcomponents](https://medium.com/@simurai/sizing-web-components-8f433689736f#.wq9g94xgc)
+- :memo: [Breaking down amazons mega dropdown](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
+- :memo: [MaintainableCSS](http://maintainablecss.com/)
+
+--
+
+**Design**
+
+- :memo: [A systematic logo design process](http://www.adhamdannaway.com/blog/branding/a-systematic-approach-to-logo-design)
+- :memo: [Web application form design](http://www.lukew.com/ff/entry.asp?1502)
+- :memo: [Workflow to design and develop a portfolio website](https://www.smashingmagazine.com/2013/06/workflow-design-develop-modern-portfolio-website/)
+- :memo: [The algorithm for a perfectly balanced photo gallery](https://medium.com/@jtreitz/the-algorithm-for-a-perfectly-balanced-photo-gallery-914c94a5d8af#.q0mhfagdr)
+- :memo: [Ask for Less and They’ll Buy More - Designing a Checkout](https://blog.kissmetrics.com/1step-checkout-right-way/)
+- :memo: [Free web fonts and their combinations](http://www.creativebloq.com/typography/free-web-fonts-1131610?page=1)
+
+--
+
+**Algorithms**
+
+- :memo: [How Reddit's ranking algorithms work](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9#.ru9aoukau)
+- :memo: [Long short-term memory recurrent neural network in Python](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+
+--
+
+**Security**
+
+- :memo: [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
+- :memo: [What technical details to consider before making a application public](http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
+
+--
+
+**Psychology**
+
+- :clapper: [About "meta" work (and wasting time)](https://www.youtube.com/watch?v=dIjKJjzRX_E)
+- :clapper: [The Science Behind Shaping Player Behavior in Online Games](http://gdcvault.com/play/1017940/The-Science-Behind-Shaping-Player)
+- :book: [The passionate programmer](https://www.amazon.co.uk/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344)
+- :book: [Time management for developers (German)](http://www.amazon.de/Zeitmanagement-f%C3%BCr-Webentwickler-Thomas-Steglich/dp/3897218828)
+
+--
+
+**Video production**
+
+- :clapper: [The 7 keys of storytelling](https://www.youtube.com/watch?v=hVcg9L6FLPA&feature=related)
+
+--
+
+**Unix**
+
+- :memo: [`rm -rf` remains](http://lambdaops.com/rm-rf-remains/)
+
+--
+
+**Working with clients**
+
+- :clapper: [F*ck You. Pay Me.](https://vimeo.com/22053820)
+- :memo: [5 Steps to getting user's insights while avoiding a bruised ego](http://blog.smartbear.com/development/a-developer-and-a-user-walk-into-a-bar-5-steps-to-getting-users-insights-while-avoiding-a-bruised-ego/)
+- :clapper: [Say no to spec work](https://www.youtube.com/watch?v=essNmNOrQto)
