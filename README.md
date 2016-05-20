@@ -28,6 +28,7 @@ I like to read **a lot** of things, on the internet and as books. This is a list
 - :clapper: [Original Node.js presentation](https://www.youtube.com/watch?v=ztspvPYybIY)
 - :clapper: [Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
 - :clapper: [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
+- :clapper: [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
 
 --
 
