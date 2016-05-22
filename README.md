@@ -29,6 +29,8 @@ I like to read **a lot** of things, on the internet and as books. This is a list
 - :clapper: [Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
 - :clapper: [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 - :clapper: [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
+- :clapper: [Progressive Web Apps across all frameworks](https://www.youtube.com/watch?v=srdKq0DckXQ)
+- :clapper: [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8)
 
 --
 
