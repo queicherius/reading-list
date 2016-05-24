@@ -141,6 +141,16 @@ sudo apt-get install -y mongodb-org
 sudo service mongod start
 ```
 
+## Elasticsearch
+
+```bash
+apt-get install default-jre
+wget https://download.elastic.co/elasticsearch/release/org/elasticsearch/distribution/deb/elasticsearch/2.3.3/elasticsearch-2.3.3.deb
+sudo dpkg -i elasticsearch-2.3.3.deb
+sudo systemctl enable elasticsearch.service
+service elasticsearch start
+```
+
 ## Ruby & Compass
 
 ```bash
