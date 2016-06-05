@@ -31,6 +31,8 @@ I like to read **a lot** of things, on the internet and as books. This is a list
 - :clapper: [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
 - :clapper: [Progressive Web Apps across all frameworks](https://www.youtube.com/watch?v=srdKq0DckXQ)
 - :clapper: [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8)
+- :memo: [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060#.ozej1gs1x)
+- :memo: [Icon as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792#.qawng0ui1)
 
 --
 
