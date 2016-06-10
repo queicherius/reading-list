@@ -33,6 +33,7 @@ I like to read **a lot** of things, on the internet and as books. This is a list
 - :clapper: [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8)
 - :memo: [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060#.ozej1gs1x)
 - :memo: [Icon as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792#.qawng0ui1)
+- :memo: [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 
 --
 
@@ -77,6 +78,7 @@ I like to read **a lot** of things, on the internet and as books. This is a list
 - :memo: [Sizing webcomponents](https://medium.com/@simurai/sizing-web-components-8f433689736f#.wq9g94xgc)
 - :memo: [Breaking down amazons mega dropdown](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
 - :memo: [MaintainableCSS](http://maintainablecss.com/)
+- :memo: [CSS Modules](http://glenmaddern.com/articles/css-modules)
 
 --
 
@@ -132,3 +134,4 @@ I like to read **a lot** of things, on the internet and as books. This is a list
 - :clapper: [F*ck You. Pay Me.](https://vimeo.com/22053820)
 - :memo: [5 Steps to getting user's insights while avoiding a bruised ego](http://blog.smartbear.com/development/a-developer-and-a-user-walk-into-a-bar-5-steps-to-getting-users-insights-while-avoiding-a-bruised-ego/)
 - :clapper: [Say no to spec work](https://www.youtube.com/watch?v=essNmNOrQto)
+- :memo: [How to Use Open Source and Shut the Fuck Up At the Same Time](https://hueniverse.com/2016/01/26/how-to-use-open-source-and-shut-the-fuck-up-at-the-same-time/)
