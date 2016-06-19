@@ -118,6 +118,12 @@ I like to read **a lot** of things, on the internet and as books. This is a list
 
 --
 
+**Math**
+
+- :memo: [Impossible Escape?](http://datagenetics.com/blog/december12014/index.html)
+
+--
+
 **Video production**
 
 - :clapper: [The 7 keys of storytelling](https://www.youtube.com/watch?v=hVcg9L6FLPA&feature=related)
