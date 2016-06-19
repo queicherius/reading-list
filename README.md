@@ -114,6 +114,7 @@ I like to read **a lot** of things, on the internet and as books. This is a list
 - :clapper: [The Science Behind Shaping Player Behavior in Online Games](http://gdcvault.com/play/1017940/The-Science-Behind-Shaping-Player)
 - :book: [The passionate programmer](https://www.amazon.co.uk/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344)
 - :book: [Time management for developers (German)](http://www.amazon.de/Zeitmanagement-f%C3%BCr-Webentwickler-Thomas-Steglich/dp/3897218828)
+- :memo: [Stop saying learning to code is easy](http://www.hanselman.com/blog/StopSayingLearningToCodeIsEasy.aspx)
 
 --
 
