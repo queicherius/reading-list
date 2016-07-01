@@ -53,6 +53,7 @@ I like to read **a lot** of things, on the internet and as books. This is a list
 - :memo: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 - :clapper: [Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
 - :memo: [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+- :memo: [AngularJS Git Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
 
 --
 
