@@ -146,3 +146,4 @@ I like to read **a lot** of things, on the internet and as books. This is a list
 - 📰 [5 Steps to getting user's insights while avoiding a bruised ego](http://blog.smartbear.com/development/a-developer-and-a-user-walk-into-a-bar-5-steps-to-getting-users-insights-while-avoiding-a-bruised-ego/)
 - 🎬 [Say no to spec work](https://www.youtube.com/watch?v=essNmNOrQto)
 - 📰 [How to Use Open Source and Shut the Fuck Up At the Same Time](https://hueniverse.com/2016/01/26/how-to-use-open-source-and-shut-the-fuck-up-at-the-same-time/)
+- 📰 [How to answer to "I can do this, why should I pay you?"](https://www.reddit.com/r/webdev/comments/4qf4x8/how_do_you_respond_when_clients_say_but_i_can_do/d4snxdl)
