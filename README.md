@@ -13,9 +13,9 @@
 
 ## Links to articles and talks
 
-I like to read **a lot** of things, on the internet and as books. This is a list of  articles (📰), videos and talks (🎬) and book recommendations (📚), which i found interesting or helpful enough to bookmark.
+> This is a list of articles (📰), videos & talks (🎬) and book recommendations (📚), which i found interesting or helpful enough to share.
 
-**Javascript**
+**JavaScript**
 
 - 📰 [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.67zv7q7wa)
 - 📰 [Optimization tricks in V8](https://blog.ghaiklor.com/optimizations-tricks-in-v8-d284b6c8b183#.5yey0f4v9)
@@ -37,7 +37,7 @@ I like to read **a lot** of things, on the internet and as books. This is a list
 
 --
 
-**Codestyle**
+**Code style**
 
 - 📚 [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - 📚 [The Art of Readable Code (Theory in Practice)](http://www.amazon.com/Art-Readable-Code-Theory-Practice/dp/0596802293)
@@ -108,7 +108,7 @@ I like to read **a lot** of things, on the internet and as books. This is a list
 - 📰 [What technical details to consider before making a application public](http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
 - 📰 [The Bank Job - Hacking a banking app](https://boris.in/blog/2016/the-bank-job/)
 - 📰 [Detecting the use of `curl | bash` server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
-- 📰 [Stop using JWTs for Sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) (& [part 2](http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/))
+- 📰 [Stop using JWTs for Sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) (and [part 2 of the article](http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/))
 
 --
 
