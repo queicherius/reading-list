@@ -104,7 +104,7 @@
 
 **SysOps**
 
-- 📰 [It's the future!](https://circleci.com/blog/its-the-future/)
+- 📰 [It's the future!](https://circleci.com/blog/its-the-future/) & [It really is the future](https://circleci.com/blog/it-really-is-the-future/)
 
 --
 
