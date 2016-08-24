@@ -105,6 +105,7 @@
 **SysOps**
 
 - 📰 [It's the future!](https://circleci.com/blog/its-the-future/) & [It really is the future](https://circleci.com/blog/it-really-is-the-future/)
+- 📰 [How to deploy Node on Linux in 2016](https://certsimple.com/blog/deploy-node-on-linux)
 
 --
 
