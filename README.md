@@ -127,6 +127,7 @@
 - 📚 [Time management for developers (German)](http://www.amazon.de/Zeitmanagement-f%C3%BCr-Webentwickler-Thomas-Steglich/dp/3897218828)
 - 📰 [Stop saying learning to code is easy](http://www.hanselman.com/blog/StopSayingLearningToCodeIsEasy.aspx)
 - 📰 [Why it doesn't pay to be a people pleaser](http://greatergood.berkeley.edu/article/item/why_it_doesnt_pay_to_be_a_people_pleaser)
+- 📰 [Don't read the comments](http://blog.samaltman.com/dont-read-the-comments)
 
 --
 
