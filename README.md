@@ -54,6 +54,7 @@
 - 🎬 [Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
 - 📰 [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 - 📰 [AngularJS Git Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
+- 📰 [Git "undo"](http://megakemp.com/2016/08/25/git-undo/)
 
 --
 
