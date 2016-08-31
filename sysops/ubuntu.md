@@ -1,5 +1,7 @@
 # Setup ubuntu server
 
+> This assumes a raw Ubuntu 16.04.1 LTS system
+
 ## General setup
 
 ```bash
@@ -127,8 +129,16 @@ sudo nano /etc/redis/redis.conf # set "requirepass <password>" & "bind 0.0.0.0"
 ## Node.js
 
 ```bash
-curl -sL https://deb.nodesource.com/setup_5.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 sudo apt-get install -y nodejs
+```
+
+> **Note**: Confirm with `node -v` that it actually installed the right version, if the installer fails it may install the version of the official repository (which is 4.x)
+
+## Python
+
+```bash
+apt-get install python
 ```
 
 ## MongoDB
