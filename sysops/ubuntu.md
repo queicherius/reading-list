@@ -4,27 +4,105 @@
 
 ## General setup
 
+### Switch to the root login
+
+I want to login as root, and the raw install does not have a password for it set, so you can't log in.
+
+> It's true that this is less secure than giving superuser priviledges to the original user, but having to prepend `sudo` before every command defeats the purpose as well. This also makes port-binding easier.
+
+```bash
+# Set a password for root
+sudo passwd root
+
+# Update the SSH file to allow login with passwords (this will get changed below)
+# -> PermitRootLogin yes
+sudo nano /etc/ssh/sshd_config
+sudo service ssh restart
+
+# Logout and log back in as "root" with the password
+logout
+
+# Remove the (now obsolete) user
+userdel -r david
+```
+
+### Setting up networking
+
+Since Ubuntu 15, the network interfaces have different names than `eth0` etc. 
+In my opinion that's confusing, so I am changing it back.
+
+```bash
+nano /etc/default/grub
+# -> change GRUB_CMDLINE_LINUX="net.ifnames=0"
+update-grub
+reboot
+```
+
+### Setup the static IP
+
+```bash
+nano /etc/network/interfaces
+```
+
+```
+auto eth0
+iface eth0 inet static
+address x.x.x.x
+netmask 255.255.255.255
+gateway x.x.x.254
+dns-nameservers 8.8.8.8 8.8.4.4
+```
+
+```bash
+ping google.com
+```
+
+### Update the system
+
 ```bash
 # Update everything!
 apt-get update && apt-get upgrade
+apt-get install build-essential 
+```
 
+> **Note:** Since we changed the "grub" file, it might ask you if you want to keep your version or update it. Just check the diff to see if everything is in order.
+
+### SSH-Key only login
+
+```
 # [CLIENT] Generate a keyfile or use an existing keyfile (skip this)
 ssh-keygen -t rsa -C "my@email.com"
 
 # [CLIENT] Copy the keyfile onto the server
-ssh-copy-id -i /path/to/file user@serverip
+ssh-copy-id -i ~/.ssh/id_rsa root@serverip
 
 # [CLIENT] Login without the SSH key (should not promt for user password!)
-ssh user@serverip
+ssh root@serverip
+
+# ---------- Server now ----------
 
 # Don't continue if we can't log in with the key!
 # Disable password login
 # -> PermitRootLogin without-password
-sudo nano /etc/ssh/sshd_config
-reload ssh
+# -> PasswordAuthentication no
+nano /etc/ssh/sshd_config
+service ssh restart
 
 # Install fail2ban for blocking too many ssh tries in a row
-sudo apt-get install fail2ban
+apt-get install fail2ban
+```
+
+### Update your timezone
+
+The timezone should be set to UTC
+
+```
+rm /etc/localtime
+ln -s /usr/share/zoneinfo/UTC /etc/localtime
+
+# Now these two commands should say the same
+date
+date -u
 ```
 
 ## nginx and PHP
