@@ -44,6 +44,7 @@
 - 📰 [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 - 📰 [AngularJS Git Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
 - 📰 [Git "undo"](http://megakemp.com/2016/08/25/git-undo/)
+- 📰 [Organizing GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
 
 --
 
