@@ -2,6 +2,8 @@
 
 > A list of articles (📰), videos & talks (🎬) and book recommendations (📚), which i found interesting or helpful enough to share.
 
+--
+
 **JavaScript**
 
 - 📰 [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.67zv7q7wa)
