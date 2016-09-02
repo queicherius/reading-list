@@ -119,6 +119,7 @@
 - 📰 [Stop using JWTs for Sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) (and [part 2 of the article](http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/))
 - 📰 [WoW: One single line of code can cost you dearly](https://blog.gdatasoftware.com/2016/07/28809-world-of-warcraft-one-simple-line-of-code-can-cost-you-dearly)
 - 📰 [The target="_blank" vulnerability](https://dev.to/ben/the-targetblank-vulnerability-by-example)
+- 📰 [How to steal any developer's local database](http://bouk.co/blog/hacking-developers/)
 
 --
 
