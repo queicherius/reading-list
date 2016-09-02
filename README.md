@@ -1,19 +1,6 @@
-# Playground
+# Reading List
 
-> Collection of random/interesting/helpful experiments, documents and links.
-
-## Documents
-
-- **JavaScript**
-  - [Serializing big objects (100mb+) into a string](https://github.com/queicherius/playground/blob/master/javascript/serializing-big-objects.md)
-- **SysOps**
-  - [Setting up an ubuntu server with nginx, php, mysql, redis, node.js and ruby](https://github.com/queicherius/playground/blob/master/sysops/ubuntu.md)
-  - [Parsing access logs using goaccess](https://github.com/queicherius/playground/blob/master/sysops/log-parsing.md)
-  - [Simple redirection mail server](https://github.com/queicherius/playground/blob/master/sysops/mails.md)
-
-## Links to articles and talks
-
-> This is a list of articles (📰), videos & talks (🎬) and book recommendations (📚), which i found interesting or helpful enough to share.
+> A list of articles (📰), videos & talks (🎬) and book recommendations (📚), which i found interesting or helpful enough to share.
 
 **JavaScript**
 
@@ -37,7 +24,7 @@
 
 --
 
-**Code style**
+**Codestyle**
 
 - 📚 [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - 📚 [The Art of Readable Code (Theory in Practice)](http://www.amazon.com/Art-Readable-Code-Theory-Practice/dp/0596802293)
@@ -136,15 +123,14 @@
 
 --
 
-**Math**
+**Working with clients**
 
-- 📰 [Impossible Escape?](http://datagenetics.com/blog/december12014/index.html)
-
---
-
-**Video production**
-
-- 🎬 [The 7 keys of storytelling](https://www.youtube.com/watch?v=hVcg9L6FLPA&feature=related)
+- 🎬 [F*ck You. Pay Me.](https://vimeo.com/22053820)
+- 📰 [5 Steps to getting user's insights while avoiding a bruised ego](http://blog.smartbear.com/development/a-developer-and-a-user-walk-into-a-bar-5-steps-to-getting-users-insights-while-avoiding-a-bruised-ego/)
+- 🎬 [Say no to spec work](https://www.youtube.com/watch?v=essNmNOrQto)
+- 📰 [How to Use Open Source and Shut the Fuck Up At the Same Time](https://hueniverse.com/2016/01/26/how-to-use-open-source-and-shut-the-fuck-up-at-the-same-time/)
+- 📰 [How to answer to "I can do this, why should I pay you?"](https://www.reddit.com/r/webdev/comments/4qf4x8/how_do_you_respond_when_clients_say_but_i_can_do/d4snxdl)
+- 📰 [From 10x programmer to 0.1x programmer: creating more with less](https://codewithoutrules.com/2016/08/25/the-01x-programmer/)
 
 --
 
@@ -154,11 +140,12 @@
 
 --
 
-**Working with clients**
+**Math**
 
-- 🎬 [F*ck You. Pay Me.](https://vimeo.com/22053820)
-- 📰 [5 Steps to getting user's insights while avoiding a bruised ego](http://blog.smartbear.com/development/a-developer-and-a-user-walk-into-a-bar-5-steps-to-getting-users-insights-while-avoiding-a-bruised-ego/)
-- 🎬 [Say no to spec work](https://www.youtube.com/watch?v=essNmNOrQto)
-- 📰 [How to Use Open Source and Shut the Fuck Up At the Same Time](https://hueniverse.com/2016/01/26/how-to-use-open-source-and-shut-the-fuck-up-at-the-same-time/)
-- 📰 [How to answer to "I can do this, why should I pay you?"](https://www.reddit.com/r/webdev/comments/4qf4x8/how_do_you_respond_when_clients_say_but_i_can_do/d4snxdl)
-- 📰 [From 10x programmer to 0.1x programmer: creating more with less](https://codewithoutrules.com/2016/08/25/the-01x-programmer/)
+- 📰 [Impossible Escape?](http://datagenetics.com/blog/december12014/index.html)
+
+--
+
+**Video production**
+
+- 🎬 [The 7 keys of storytelling](https://www.youtube.com/watch?v=hVcg9L6FLPA&feature=related)
