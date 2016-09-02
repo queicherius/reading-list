@@ -134,6 +134,7 @@
 - 📰 [How to Use Open Source and Shut the Fuck Up At the Same Time](https://hueniverse.com/2016/01/26/how-to-use-open-source-and-shut-the-fuck-up-at-the-same-time/)
 - 📰 [How to answer to "I can do this, why should I pay you?"](https://www.reddit.com/r/webdev/comments/4qf4x8/how_do_you_respond_when_clients_say_but_i_can_do/d4snxdl)
 - 📰 [From 10x programmer to 0.1x programmer: creating more with less](https://codewithoutrules.com/2016/08/25/the-01x-programmer/)
+- 📰 [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
 --
 
