@@ -123,6 +123,7 @@
 - 📰 [Why it doesn't pay to be a people pleaser](http://greatergood.berkeley.edu/article/item/why_it_doesnt_pay_to_be_a_people_pleaser)
 - 📰 [Don't read the comments](http://blog.samaltman.com/dont-read-the-comments)
 - 📰 [We Do Not Support So-Called Trigger Warnings](http://time.com/4466021/uchicago-trigger-warnings/)
+- 🎬 [Achieving Your Childhood Dreams (The Last Lecture by Randy Pausch)](https://www.youtube.com/watch?v=ji5_MqicxSo)
 
 --
 
