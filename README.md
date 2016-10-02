@@ -90,6 +90,7 @@
 
 - 📰 [How Reddit's ranking algorithms work](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9#.ru9aoukau)
 - 📰 [Long short-term memory recurrent neural network in Python](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+- 🎬 [Can we build AI without losing control over it?](http://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it#t-706132)
 
 --
 
