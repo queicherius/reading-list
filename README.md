@@ -83,6 +83,7 @@
 - 📰 [The algorithm for a perfectly balanced photo gallery](https://medium.com/@jtreitz/the-algorithm-for-a-perfectly-balanced-photo-gallery-914c94a5d8af#.q0mhfagdr)
 - 📰 [Ask for Less and They’ll Buy More - Designing a Checkout](https://blog.kissmetrics.com/1step-checkout-right-way/)
 - 📰 [Free web fonts and their combinations](http://www.creativebloq.com/typography/free-web-fonts-1131610?page=1)
+- 📰 [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/)
 
 --
 
@@ -125,6 +126,7 @@
 - 📰 [Don't read the comments](http://blog.samaltman.com/dont-read-the-comments)
 - 📰 [We Do Not Support So-Called Trigger Warnings](http://time.com/4466021/uchicago-trigger-warnings/)
 - 🎬 [Achieving Your Childhood Dreams (The Last Lecture by Randy Pausch)](https://www.youtube.com/watch?v=ji5_MqicxSo)
+- 📰 [The One in Which I Call Out Hacker News](https://bitquabit.com/post/one-which-i-call-out-hacker-news/)
 
 --
 
