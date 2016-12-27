@@ -87,6 +87,7 @@
 - 📰 [Ask for Less and They’ll Buy More - Designing a Checkout](https://blog.kissmetrics.com/1step-checkout-right-way/)
 - 📰 [Free web fonts and their combinations](http://www.creativebloq.com/typography/free-web-fonts-1131610?page=1)
 - 📰 [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/)
+- 📰 [Mistakes Developers Make When Learning Design](https://www.smashingmagazine.com/2016/12/mistakes-developers-make-when-learning-design/)
 
 --
 
@@ -130,10 +131,11 @@
 - 📰 [We Do Not Support So-Called Trigger Warnings](http://time.com/4466021/uchicago-trigger-warnings/)
 - 🎬 [Achieving Your Childhood Dreams (The Last Lecture by Randy Pausch)](https://www.youtube.com/watch?v=ji5_MqicxSo)
 - 📰 [The One in Which I Call Out Hacker News](https://bitquabit.com/post/one-which-i-call-out-hacker-news/)
+- 📰 [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414?__s=ptag773ks2wxoqvv2ewe)
 
 --
 
-**Working with clients**
+**Business Things**
 
 - 🎬 [F*ck You. Pay Me.](https://vimeo.com/22053820)
 - 📰 [5 Steps to getting user's insights while avoiding a bruised ego](http://blog.smartbear.com/development/a-developer-and-a-user-walk-into-a-bar-5-steps-to-getting-users-insights-while-avoiding-a-bruised-ego/)
@@ -144,6 +146,7 @@
 - 📰 [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 - 📰 [The commoditisation of the coder](https://www.troyhunt.com/commoditisation-of-coder/)
 - 📰 [Offshoring roulette: lessons from outsourcing](https://www.troyhunt.com/offshoring-roulette-lessons-from-outsourcing-to-india-china-and-the-philippines/)
+- 📰 [The Epic Guide to Bootstrapping a SaaS Startup from Scratch](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.82jjh5tic)
 
 --
 
