@@ -23,6 +23,8 @@
 - 📰 [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060#.ozej1gs1x)
 - 📰 [Icon as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792#.qawng0ui1)
 - 📰 [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
+- 🎬 [React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+- 🎬 [The Secrets of React's Virtual DOM](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 
 --
 
