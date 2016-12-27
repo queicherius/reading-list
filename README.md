@@ -23,6 +23,7 @@
 - 📰 [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060#.ozej1gs1x)
 - 📰 [Icon as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792#.qawng0ui1)
 - 📰 [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
+- 📰 [Optimization Killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#introduction)
 - 🎬 [React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 - 🎬 [The Secrets of React's Virtual DOM](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 
@@ -143,6 +144,12 @@
 - 📰 [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 - 📰 [The commoditisation of the coder](https://www.troyhunt.com/commoditisation-of-coder/)
 - 📰 [Offshoring roulette: lessons from outsourcing](https://www.troyhunt.com/offshoring-roulette-lessons-from-outsourcing-to-india-china-and-the-philippines/)
+
+--
+
+**Fun**
+
+- 📰 [Programming sucks](https://www.stilldrinking.org/programming-sucks)
 
 --
 
