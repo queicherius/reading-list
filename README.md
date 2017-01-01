@@ -4,6 +4,13 @@
 
 --
 
+**General Programming**
+
+- 🎬 [Stop Over-Engenering](https://www.youtube.com/watch?v=GRr4xeMn1uU)
+- 🎬 [On the Spectrum of Abstraction](https://www.youtube.com/watch?v=mVVNJKv9esE)
+
+--
+
 **JavaScript**
 
 - 📰 [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.67zv7q7wa)
@@ -26,6 +33,7 @@
 - 📰 [Optimization Killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#introduction)
 - 🎬 [React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 - 🎬 [The Secrets of React's Virtual DOM](https://www.youtube.com/watch?v=-DX3vJiqxm4)
+- 🎬 [Building offline-first PWAs](https://www.youtube.com/watch?v=cmGr0RszHc8)
 
 --
 
@@ -36,6 +44,7 @@
 - 🎬 [Your code sucks, let's fix it](http://www.fullybaked.co.uk/articles/your-code-sucks-lets-fix-it)
 - 📚 [Refactoring to Patterns](https://www.amazon.co.uk/Refactoring-Patterns-Addison-Wesley-Signature-Kerievsky/dp/0321213351/ref=sr_1_1?s=books&ie=UTF8&qid=1463412920&sr=1-1&keywords=refactoring+to+patterns)
 - 📚 [Refactoring: Improving the Design of Existing Code](https://www.amazon.co.uk/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/ref=sr_1_1?s=books&ie=UTF8&qid=1463412948&sr=1-1&keywords=refactoring+improving+the+design+of+existing+code)
+- 📰 [Coding standards horror storry](http://www.lhotka.net/weblog/CodingStandardsHorrorStory.aspx)
 
 --
 
@@ -135,7 +144,7 @@
 
 --
 
-**Business Things**
+**Business and Open Source**
 
 - 🎬 [F*ck You. Pay Me.](https://vimeo.com/22053820)
 - 📰 [5 Steps to getting user's insights while avoiding a bruised ego](http://blog.smartbear.com/development/a-developer-and-a-user-walk-into-a-bar-5-steps-to-getting-users-insights-while-avoiding-a-bruised-ego/)
@@ -147,6 +156,7 @@
 - 📰 [The commoditisation of the coder](https://www.troyhunt.com/commoditisation-of-coder/)
 - 📰 [Offshoring roulette: lessons from outsourcing](https://www.troyhunt.com/offshoring-roulette-lessons-from-outsourcing-to-india-china-and-the-philippines/)
 - 📰 [The Epic Guide to Bootstrapping a SaaS Startup from Scratch](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.82jjh5tic)
+- 📰 [Why I close PRs without merging](http://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
 
 --
 
