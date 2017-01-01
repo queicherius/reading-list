@@ -11,6 +11,59 @@
 
 --
 
+**Codestyle**
+
+- 📚 [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- 📚 [The Art of Readable Code (Theory in Practice)](http://www.amazon.com/Art-Readable-Code-Theory-Practice/dp/0596802293)
+- 🎬 [Your code sucks, let's fix it](http://www.fullybaked.co.uk/articles/your-code-sucks-lets-fix-it)
+- 📚 [Refactoring to Patterns](https://www.amazon.co.uk/Refactoring-Patterns-Addison-Wesley-Signature-Kerievsky/dp/0321213351/ref=sr_1_1?s=books&ie=UTF8&qid=1463412920&sr=1-1&keywords=refactoring+to+patterns)
+- 📚 [Refactoring: Improving the Design of Existing Code](https://www.amazon.co.uk/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/ref=sr_1_1?s=books&ie=UTF8&qid=1463412948&sr=1-1&keywords=refactoring+improving+the+design+of+existing+code)
+- 📰 [Coding standards horror storry](http://www.lhotka.net/weblog/CodingStandardsHorrorStory.aspx)
+
+--
+
+**Version Control**
+
+- 📰 [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/#introduction)
+- 📰 [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+- 🎬 [Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
+- 📰 [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+- 📰 [AngularJS Git Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
+- 📰 [Git "undo"](http://megakemp.com/2016/08/25/git-undo/)
+- 📰 [Organizing GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
+
+--
+
+**System Administration**
+
+- 📰 [It's the future!](https://circleci.com/blog/its-the-future/) & [It really is the future](https://circleci.com/blog/it-really-is-the-future/)
+- 📰 [How to deploy Node on Linux in 2016](https://certsimple.com/blog/deploy-node-on-linux)
+- 📰 [`rm -rf` remains](http://lambdaops.com/rm-rf-remains/)
+
+--
+
+**Security**
+
+- 📰 [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
+- 📰 [What technical details to consider before making a application public](http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
+- 📰 [The Bank Job - Hacking a banking app](https://boris.in/blog/2016/the-bank-job/)
+- 📰 [Detecting the use of `curl | bash` server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
+- 📰 [Stop using JWTs for Sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) (and [part 2 of the article](http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/))
+- 📰 [WoW: One single line of code can cost you dearly](https://blog.gdatasoftware.com/2016/07/28809-world-of-warcraft-one-simple-line-of-code-can-cost-you-dearly)
+- 📰 [The target="_blank" vulnerability](https://dev.to/ben/the-targetblank-vulnerability-by-example)
+- 📰 [How to steal any developer's local database](http://bouk.co/blog/hacking-developers/)
+
+--
+
+**Algorithms**
+
+- 📰 [How Reddit's ranking algorithms work](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9#.ru9aoukau)
+- 📰 [Long short-term memory recurrent neural network in Python](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
+- 🎬 [Can we build AI without losing control over it?](http://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it#t-706132)
+- 📰 [Impossible Escape?](http://datagenetics.com/blog/december12014/index.html)
+
+--
+
 **JavaScript**
 
 - 📰 [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.67zv7q7wa)
@@ -37,26 +90,12 @@
 
 --
 
-**Codestyle**
+**CSS**
 
-- 📚 [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- 📚 [The Art of Readable Code (Theory in Practice)](http://www.amazon.com/Art-Readable-Code-Theory-Practice/dp/0596802293)
-- 🎬 [Your code sucks, let's fix it](http://www.fullybaked.co.uk/articles/your-code-sucks-lets-fix-it)
-- 📚 [Refactoring to Patterns](https://www.amazon.co.uk/Refactoring-Patterns-Addison-Wesley-Signature-Kerievsky/dp/0321213351/ref=sr_1_1?s=books&ie=UTF8&qid=1463412920&sr=1-1&keywords=refactoring+to+patterns)
-- 📚 [Refactoring: Improving the Design of Existing Code](https://www.amazon.co.uk/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/ref=sr_1_1?s=books&ie=UTF8&qid=1463412948&sr=1-1&keywords=refactoring+improving+the+design+of+existing+code)
-- 📰 [Coding standards horror storry](http://www.lhotka.net/weblog/CodingStandardsHorrorStory.aspx)
-
---
-
-**Version control**
-
-- 📰 [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/#introduction)
-- 📰 [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-- 🎬 [Linus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
-- 📰 [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
-- 📰 [AngularJS Git Commit Message Conventions](https://gist.github.com/stephenparish/9941e89d80e2bc58a153)
-- 📰 [Git "undo"](http://megakemp.com/2016/08/25/git-undo/)
-- 📰 [Organizing GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
+- 📰 [Sizing webcomponents](https://medium.com/@simurai/sizing-web-components-8f433689736f#.wq9g94xgc)
+- 📰 [Breaking down amazons mega dropdown](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
+- 📰 [MaintainableCSS](http://maintainablecss.com/)
+- 📰 [CSS Modules](http://glenmaddern.com/articles/css-modules)
 
 --
 
@@ -78,16 +117,7 @@
 
 --
 
-**CSS**
-
-- 📰 [Sizing webcomponents](https://medium.com/@simurai/sizing-web-components-8f433689736f#.wq9g94xgc)
-- 📰 [Breaking down amazons mega dropdown](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
-- 📰 [MaintainableCSS](http://maintainablecss.com/)
-- 📰 [CSS Modules](http://glenmaddern.com/articles/css-modules)
-
---
-
-**Design**
+**Design and Media**
 
 - 📰 [A systematic logo design process](http://www.adhamdannaway.com/blog/branding/a-systematic-approach-to-logo-design)
 - 📰 [Web application form design](http://www.lukew.com/ff/entry.asp?1502)
@@ -97,34 +127,7 @@
 - 📰 [Free web fonts and their combinations](http://www.creativebloq.com/typography/free-web-fonts-1131610?page=1)
 - 📰 [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/)
 - 📰 [Mistakes Developers Make When Learning Design](https://www.smashingmagazine.com/2016/12/mistakes-developers-make-when-learning-design/)
-
---
-
-**Algorithms**
-
-- 📰 [How Reddit's ranking algorithms work](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9#.ru9aoukau)
-- 📰 [Long short-term memory recurrent neural network in Python](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
-- 🎬 [Can we build AI without losing control over it?](http://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it#t-706132)
-
---
-
-**SysOps**
-
-- 📰 [It's the future!](https://circleci.com/blog/its-the-future/) & [It really is the future](https://circleci.com/blog/it-really-is-the-future/)
-- 📰 [How to deploy Node on Linux in 2016](https://certsimple.com/blog/deploy-node-on-linux)
-
---
-
-**Security**
-
-- 📰 [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
-- 📰 [What technical details to consider before making a application public](http://programmers.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
-- 📰 [The Bank Job - Hacking a banking app](https://boris.in/blog/2016/the-bank-job/)
-- 📰 [Detecting the use of `curl | bash` server side](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
-- 📰 [Stop using JWTs for Sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) (and [part 2 of the article](http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/))
-- 📰 [WoW: One single line of code can cost you dearly](https://blog.gdatasoftware.com/2016/07/28809-world-of-warcraft-one-simple-line-of-code-can-cost-you-dearly)
-- 📰 [The target="_blank" vulnerability](https://dev.to/ben/the-targetblank-vulnerability-by-example)
-- 📰 [How to steal any developer's local database](http://bouk.co/blog/hacking-developers/)
+- 🎬 [The 7 keys of storytelling](https://www.youtube.com/watch?v=hVcg9L6FLPA&feature=related)
 
 --
 
@@ -141,6 +144,7 @@
 - 🎬 [Achieving Your Childhood Dreams (The Last Lecture by Randy Pausch)](https://www.youtube.com/watch?v=ji5_MqicxSo)
 - 📰 [The One in Which I Call Out Hacker News](https://bitquabit.com/post/one-which-i-call-out-hacker-news/)
 - 📰 [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414?__s=ptag773ks2wxoqvv2ewe)
+- 📰 [Programming sucks](https://www.stilldrinking.org/programming-sucks)
 
 --
 
@@ -157,27 +161,3 @@
 - 📰 [Offshoring roulette: lessons from outsourcing](https://www.troyhunt.com/offshoring-roulette-lessons-from-outsourcing-to-india-china-and-the-philippines/)
 - 📰 [The Epic Guide to Bootstrapping a SaaS Startup from Scratch](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.82jjh5tic)
 - 📰 [Why I close PRs without merging](http://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
-
---
-
-**Fun**
-
-- 📰 [Programming sucks](https://www.stilldrinking.org/programming-sucks)
-
---
-
-**Unix**
-
-- 📰 [`rm -rf` remains](http://lambdaops.com/rm-rf-remains/)
-
---
-
-**Math**
-
-- 📰 [Impossible Escape?](http://datagenetics.com/blog/december12014/index.html)
-
---
-
-**Video production**
-
-- 🎬 [The 7 keys of storytelling](https://www.youtube.com/watch?v=hVcg9L6FLPA&feature=related)
