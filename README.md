@@ -39,6 +39,7 @@
 - 📰 [It's the future!](https://circleci.com/blog/its-the-future/) & [It really is the future](https://circleci.com/blog/it-really-is-the-future/)
 - 📰 [How to deploy Node on Linux in 2016](https://certsimple.com/blog/deploy-node-on-linux)
 - 📰 [`rm -rf` remains](http://lambdaops.com/rm-rf-remains/)
+- 📰 [Myths about `/dev/urandom`](http://www.2uo.de/myths-about-urandom/)
 
 --
 
@@ -61,6 +62,7 @@
 - 📰 [Long short-term memory recurrent neural network in Python](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 - 🎬 [Can we build AI without losing control over it?](http://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it#t-706132)
 - 📰 [Impossible Escape?](http://datagenetics.com/blog/december12014/index.html)
+- 🎬 [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY)
 
 --
 
@@ -90,12 +92,13 @@
 
 --
 
-**CSS**
+**CSS & SVG**
 
 - 📰 [Sizing webcomponents](https://medium.com/@simurai/sizing-web-components-8f433689736f#.wq9g94xgc)
 - 📰 [Breaking down amazons mega dropdown](http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown)
 - 📰 [MaintainableCSS](http://maintainablecss.com/)
 - 📰 [CSS Modules](http://glenmaddern.com/articles/css-modules)
+- 🎬 [Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
 
 --
 
