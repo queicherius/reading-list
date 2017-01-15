@@ -53,6 +53,7 @@
 - 📰 [WoW: One single line of code can cost you dearly](https://blog.gdatasoftware.com/2016/07/28809-world-of-warcraft-one-simple-line-of-code-can-cost-you-dearly)
 - 📰 [The target="_blank" vulnerability](https://dev.to/ben/the-targetblank-vulnerability-by-example)
 - 📰 [How to steal any developer's local database](http://bouk.co/blog/hacking-developers/)
+- 🎬 [I will kill you (hacking of death- and birth-certificates)](https://www.youtube.com/watch?v=9FdHq3WfJgs)
 
 --
 
@@ -63,6 +64,7 @@
 - 🎬 [Can we build AI without losing control over it?](http://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it#t-706132)
 - 📰 [Impossible Escape?](http://datagenetics.com/blog/december12014/index.html)
 - 🎬 [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY)
+- 📰 [A year without a byte (the Flickr image storage)](https://code.flickr.net/2017/01/05/a-year-without-a-byte/)
 
 --
 
@@ -148,6 +150,7 @@
 - 📰 [The One in Which I Call Out Hacker News](https://bitquabit.com/post/one-which-i-call-out-hacker-news/)
 - 📰 [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414?__s=ptag773ks2wxoqvv2ewe)
 - 📰 [Programming sucks](https://www.stilldrinking.org/programming-sucks)
+- 📰 [Why do Nigerian scammers say they are from Nigeria?](https://www.microsoft.com/en-us/research/publication/why-do-nigerian-scammers-say-they-are-from-nigeria/)
 
 --
 
