@@ -54,6 +54,7 @@
 - 📰 [The target="_blank" vulnerability](https://dev.to/ben/the-targetblank-vulnerability-by-example)
 - 📰 [How to steal any developer's local database](http://bouk.co/blog/hacking-developers/)
 - 🎬 [I will kill you (hacking of death- and birth-certificates)](https://www.youtube.com/watch?v=9FdHq3WfJgs)
+- 📰 [The line of death (UI design)](https://textslashplain.com/2017/01/14/the-line-of-death/)
 
 --
 
