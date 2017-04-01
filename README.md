@@ -2,14 +2,14 @@
 
 > A list of articles (📰), videos & talks (🎬) and book recommendations (📚), which i found interesting or helpful enough to share.
 
---
+---
 
 **General Programming**
 
 - 🎬 [Stop Over-Engenering](https://www.youtube.com/watch?v=GRr4xeMn1uU)
 - 🎬 [On the Spectrum of Abstraction](https://www.youtube.com/watch?v=mVVNJKv9esE)
 
---
+---
 
 **Codestyle**
 
@@ -19,8 +19,11 @@
 - 📚 [Refactoring to Patterns](https://www.amazon.co.uk/Refactoring-Patterns-Addison-Wesley-Signature-Kerievsky/dp/0321213351/ref=sr_1_1?s=books&ie=UTF8&qid=1463412920&sr=1-1&keywords=refactoring+to+patterns)
 - 📚 [Refactoring: Improving the Design of Existing Code](https://www.amazon.co.uk/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/ref=sr_1_1?s=books&ie=UTF8&qid=1463412948&sr=1-1&keywords=refactoring+improving+the+design+of+existing+code)
 - 📰 [Coding standards horror storry](http://www.lhotka.net/weblog/CodingStandardsHorrorStory.aspx)
+- 🎬 [The art of destroying software](https://vimeo.com/108441214)
+- 🎬 [Seven Ineffective Coding Habits](https://vimeo.com/97329157)
+- 🎬 [Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs)
 
---
+---
 
 **Version Control**
 
@@ -32,7 +35,7 @@
 - 📰 [Git "undo"](http://megakemp.com/2016/08/25/git-undo/)
 - 📰 [Organizing GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
 
---
+---
 
 **System Administration**
 
@@ -40,8 +43,12 @@
 - 📰 [How to deploy Node on Linux in 2016](https://certsimple.com/blog/deploy-node-on-linux)
 - 📰 [`rm -rf` remains](http://lambdaops.com/rm-rf-remains/)
 - 📰 [Myths about `/dev/urandom`](http://www.2uo.de/myths-about-urandom/)
+- 🎬 [AWS re:Invent 2016](https://www.youtube.com/watch?v=AyOAjFNPAbA)
+- 📰 [Online migrations at scale](https://stripe.com/blog/online-migrations)
+- 📰 [Incident management at Google](https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html)
+- 📰 [How Discord Indexes Billions of Messages](https://blog.discordapp.com/how-discord-indexes-billions-of-messages-e3d5e9be866f)
 
---
+---
 
 **Security**
 
@@ -56,7 +63,7 @@
 - 🎬 [I will kill you (hacking of death- and birth-certificates)](https://www.youtube.com/watch?v=9FdHq3WfJgs)
 - 📰 [The line of death (UI design)](https://textslashplain.com/2017/01/14/the-line-of-death/)
 
---
+---
 
 **Algorithms**
 
@@ -67,7 +74,7 @@
 - 🎬 [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY)
 - 📰 [A year without a byte (the Flickr image storage)](https://code.flickr.net/2017/01/05/a-year-without-a-byte/)
 
---
+---
 
 **JavaScript**
 
@@ -92,8 +99,13 @@
 - 🎬 [React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
 - 🎬 [The Secrets of React's Virtual DOM](https://www.youtube.com/watch?v=-DX3vJiqxm4)
 - 🎬 [Building offline-first PWAs](https://www.youtube.com/watch?v=cmGr0RszHc8)
+- 🎬 [Transpilers: Bridge to the Future](https://www.youtube.com/watch?v=M1qm-AWWu-M)
+- 🎬 [The Website Obesity Crisis](https://vimeo.com/147806338)
+- 📰 [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
+- 📰 [The broken promise of Web Components](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
+- 📰 [Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
 
---
+---
 
 **CSS & SVG**
 
@@ -103,9 +115,9 @@
 - 📰 [CSS Modules](http://glenmaddern.com/articles/css-modules)
 - 🎬 [Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
 
---
+---
 
-**PHP**
+**PHP & MySQL**
 
 - 📰 [PHP: The right way](http://www.phptherightway.com/)
 - 🎬 [Refactoring to Symfony Components](https://www.youtube.com/watch?v=Aq5Hi6PasFg)
@@ -114,14 +126,9 @@
 - 📰 [Create your own framework... on top of Symfony components](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html)
 - 📰 [Why `mysql_real_escape_string()` isn't enough](http://www.dreamincode.net/forums/blog/1735/entry-3958-why-mysql-real-escape-string-isnt-enough/)
 - 📰 [Cropping images based on their entropy](https://codegeekz.com/cropping-images-entrop/)
-
---
-
-**MySQL**
-
 - 📰 [Order by `RAND()`](http://jan.kneschke.de/projects/mysql/order-by-rand/)
 
---
+---
 
 **Design and Media**
 
@@ -135,7 +142,7 @@
 - 📰 [Mistakes Developers Make When Learning Design](https://www.smashingmagazine.com/2016/12/mistakes-developers-make-when-learning-design/)
 - 🎬 [The 7 keys of storytelling](https://www.youtube.com/watch?v=hVcg9L6FLPA&feature=related)
 
---
+---
 
 **Psychology**
 
@@ -152,8 +159,9 @@
 - 📰 [Mastering Programming](https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414?__s=ptag773ks2wxoqvv2ewe)
 - 📰 [Programming sucks](https://www.stilldrinking.org/programming-sucks)
 - 📰 [Why do Nigerian scammers say they are from Nigeria?](https://www.microsoft.com/en-us/research/publication/why-do-nigerian-scammers-say-they-are-from-nigeria/)
+- 🎬 [Neil Gaiman Commencement Speech](https://www.youtube.com/watch?v=ikAb-NYkseI)
 
---
+---
 
 **Business and Open Source**
 
@@ -168,3 +176,22 @@
 - 📰 [Offshoring roulette: lessons from outsourcing](https://www.troyhunt.com/offshoring-roulette-lessons-from-outsourcing-to-india-china-and-the-philippines/)
 - 📰 [The Epic Guide to Bootstrapping a SaaS Startup from Scratch](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1#.82jjh5tic)
 - 📰 [Why I close PRs without merging](http://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+- 📰 [Don't call me a '5:01er'](https://czep.net/15/dont-call-me-a-501er.html)
+- 🎬 [Creating a profitable startup company](https://www.youtube.com/watch?v=0CDXJ6bMkMY)
+- 🎬 [Designing the Ideal Bootstrapped Business](https://vimeo.com/74338272)
+- 🎬 [The mind behind Linux](https://www.youtube.com/watch?v=o8NPllzkFhE)
+- 🎬 [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action#t-1065771)
+- 🎬 [Putting your work in front of a client](https://vimeo.com/121082134)
+- 📰 [Why we should kill the 40-hour work week](https://crew.co/blog/why-you-shouldnt-work-set-hours/)
+- 📰 [How to become a successful developer](https://medium.com/@yoshuawuyts/how-to-become-a-successful-developer-6058723583ef#.7ie2j2p8l)
+- 📰 [What it feels like to be an open-source maintainer](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
+- 📰 [How to answer the "What's your current salary?" job interview question](https://fearlesssalarynegotiation.com/the-dreaded-salary-question/)
+
+---
+
+**Fun**
+
+- 📰 [What Happens When You Mix Java with a 1960 IBM Mainframe](https://thenewstack.io/happens-use-java-1960-ibm-mainframe/)
+- 🎬 [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+- 🎬 [Wat](https://www.destroyallsoftware.com/talks/wat)
+- 🎬 [Jenn Schiffer, Engineer/Artist](https://www.youtube.com/watch?v=wewAC5X_CZ8)
