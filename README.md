@@ -104,6 +104,7 @@
 - 📰 [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
 - 📰 [The broken promise of Web Components](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
 - 📰 [Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
+- 🎬 [Progressive Web App Libraries in Production](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34)
 
 ---
 
