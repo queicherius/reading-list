@@ -8,6 +8,10 @@
 
 - 🎬 [Stop Over-Engenering](https://www.youtube.com/watch?v=GRr4xeMn1uU)
 - 🎬 [On the Spectrum of Abstraction](https://www.youtube.com/watch?v=mVVNJKv9esE)
+- 🎬 [Big picture software testing unit testing](https://www.youtube.com/watch?v=Vaq_e7qUA-4)
+- 🎬 [Inventing on Principle](https://vimeo.com/36579366)
+- 🎬 [Drawing Dynamic Visualizations](https://vimeo.com/66085662)
+- 🎬 [The Future of Programming](https://vimeo.com/71278954)
 
 ---
 
@@ -62,6 +66,7 @@
 - 📰 [How to steal any developer's local database](http://bouk.co/blog/hacking-developers/)
 - 🎬 [I will kill you (hacking of death- and birth-certificates)](https://www.youtube.com/watch?v=9FdHq3WfJgs)
 - 📰 [The line of death (UI design)](https://textslashplain.com/2017/01/14/the-line-of-death/)
+- 📰 [HTTPS on Stack Overflow: The End of a Long Road](https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/)
 
 ---
 
@@ -105,6 +110,11 @@
 - 📰 [The broken promise of Web Components](https://dmitriid.com/blog/2017/03/the-broken-promise-of-web-components/)
 - 📰 [Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
 - 🎬 [Progressive Web App Libraries in Production](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34)
+- 🎬 [In the loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0)
+- 🎬 [Into the void 0](https://www.youtube.com/watch?v=LY6y3HbDVmg)
+- 🎬 [JavaScript is a buffet, not the enemy](https://www.youtube.com/watch?time_continue=3031&v=rfgXKJPMCos)
+- 📰 [The 100% correct way to structure a React app (or why there’s no such thing)](https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed)
+- 📰 [Understanding Higher Order Components](https://medium.freecodecamp.org/understanding-higher-order-components-6ce359d761b)
 
 ---
 
@@ -115,6 +125,7 @@
 - 📰 [MaintainableCSS](http://maintainablecss.com/)
 - 📰 [CSS Modules](http://glenmaddern.com/articles/css-modules)
 - 🎬 [Why Inline SVG is Best SVG](https://www.youtube.com/watch?v=af4ZQJ14yu8)
+- 🎬 [CSS Grid Changes EVERYTHING](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 
 ---
 
@@ -142,6 +153,11 @@
 - 📰 [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design/)
 - 📰 [Mistakes Developers Make When Learning Design](https://www.smashingmagazine.com/2016/12/mistakes-developers-make-when-learning-design/)
 - 🎬 [The 7 keys of storytelling](https://www.youtube.com/watch?v=hVcg9L6FLPA&feature=related)
+- 🎬 [And You Thought Designing Buttons Was Easy](https://www.youtube.com/watch?v=IBU1lTfZ4Co)
+- 🎬 [Atomic Design: Create Design Systems, Not Pages](https://www.youtube.com/watch?v=wcAl0VXYBGE)
+- 📰 [Litte UI Details](https://twitter.com/i/moments/880688233641848832)
+- 📰 [Net Promoter Score Considered Harmful (and What UX Professionals Can Do About It)](https://blog.usejournal.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it-fe7a132f4430)
+- 📰 [Refactoring UI](https://medium.com/refactoring-ui)
 
 ---
 
@@ -161,6 +177,7 @@
 - 📰 [Programming sucks](https://www.stilldrinking.org/programming-sucks)
 - 📰 [Why do Nigerian scammers say they are from Nigeria?](https://www.microsoft.com/en-us/research/publication/why-do-nigerian-scammers-say-they-are-from-nigeria/)
 - 🎬 [Neil Gaiman Commencement Speech](https://www.youtube.com/watch?v=ikAb-NYkseI)
+- 📰 [35 habits that make you write bad code](https://www.codementor.io/christianmaioli/35-habits-that-make-you-write-bad-code-8ks62091v)
 
 ---
 
@@ -187,6 +204,13 @@
 - 📰 [How to become a successful developer](https://medium.com/@yoshuawuyts/how-to-become-a-successful-developer-6058723583ef#.7ie2j2p8l)
 - 📰 [What it feels like to be an open-source maintainer](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
 - 📰 [How to answer the "What's your current salary?" job interview question](https://fearlesssalarynegotiation.com/the-dreaded-salary-question/)
+- 📰 [Users you don't want](http://www.michaelseibel.com/blog/users-you-don-t-want)
+- 📰 [Software as a Service, as a business](https://stripe.com/atlas/guides/business-of-saas)
+- 📰 [For an Inclusive Culture, Try Working Less](https://hackernoon.com/for-inclusive-culture-maybe-less-is-more-87b663662cea)
+- 🎬 [New Tech Start-Up Bubble](https://www.youtube.com/watch?v=G7vrCpWbmDw)
+- 📰 [The 16 Golden Rules of Financial Safety](http://www.harrybrowne.org/articles/InvestmentRules.htm)
+- 📰 [Why Scrum is the Wrong Way to Build Software](https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5)
+- 📰 [What to do when tech jobs go bad](https://medium.com/@xevix/what-to-do-when-tech-jobs-go-bad-93e631a1bdc9)
 
 ---
 
